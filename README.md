@@ -24,7 +24,7 @@ The Portfolio Management System is a web-based application developed using PHP, 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/portfolio-management-system.git
+   git clone https://github.com/ElNino9495/Portfolio-Management-System.git
 
 ## Configure Database Settings:
 
